@@ -1,7 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 test ok
 =======
 okye
 ok
 test
 >>>>>>> 139a20505101810262a28b1500d66c472c48b26b
+=======
+okye
+ok
+test
+
+>>>>>>> 0ad6e0c75e4f6d02d38fa5095df7f2d593276261
